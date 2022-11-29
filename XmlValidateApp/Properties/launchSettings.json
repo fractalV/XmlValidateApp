@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlValidateApp": {
+      "commandName": "Project",
+      "commandLineArgs": "test.xml\r\ngtd.xsd"
+    }
+  }
+}
